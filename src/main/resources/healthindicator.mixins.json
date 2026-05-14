@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.jimin.healthindicator.mixins",
+  "mixins": [
+    "RendererLivingEntityMixin"
+  ]
+}
